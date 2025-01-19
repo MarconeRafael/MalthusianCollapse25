@@ -1,0 +1,5 @@
+[DefaultGenome]
+fitness_threshold = 100.0
+num_inputs = 5
+num_outputs = 2
+initial_connection = full
